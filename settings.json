@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "SectionEServer",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "ectionE_SMP.aternos.me",
+    "port": 30907,
     "version": "",
     "try-creative": false
   },
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 300,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "WELCOME TO SECTION E SMP!! IM A BOT TO KEEP THIS SERVER UP 24/7!!",
+        "SECTON E RULES!!!!!!!! ( I am forced to message to keep this server running as I am a bot )",
+        "I like to play Minecraft! ( i am forced to be a slave to keep this server running 24/7)"
       ]
     },
     "chat-log": true,
